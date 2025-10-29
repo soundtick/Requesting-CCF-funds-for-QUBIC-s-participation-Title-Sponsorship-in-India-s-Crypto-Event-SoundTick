@@ -42,7 +42,7 @@
 
 ## About the Team and SoundTick
 
-Please watch the video here → YouTube https://youtu.be/r781XfvacdU 
+Please watch the video here → YouTube https://youtu.be/r781XfvacdU This video illustrates our workflow.
 
 Without any CCF funds, we (SoundTick and a 4-member team) have already conducted activities independently at **Metamorphosis Delhi**, held on *27–28 September 2025* at **Le Meridien, Gurgaon, India.**
 
