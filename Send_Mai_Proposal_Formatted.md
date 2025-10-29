@@ -51,7 +51,7 @@ This time, the same team SoundTick, expanded to 15 members, is going to particip
 We are **not part of any official QUBIC roles** such as Ambassador or Community Lead. We simply trust the project, **CFB**, and are passionate about expanding its visibility in India.
 
 I have been following the project since **December 2023** and started tweeting about it in **February 2024:**  
- Tweet Reference (https://x.com/SoundTick/status/1762812817231729037)
+ Tweet Reference https://x.com/SoundTick/status/1762812817231729037
 
 It’s been almost **two years of journey** with the QUBIC project, and now I am taking the initiative to expand its presence across India.
 
@@ -123,9 +123,11 @@ This coordinated approach ensures that QUBIC gains **maximum visibility, credibi
 ---
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/286f1f84-31a0-49b0-a1bb-7abd5255799d" />
 
+---
 
 <img width="1920" height="1080" alt="2 stage" src="https://github.com/user-attachments/assets/22a17fe4-b99e-4497-a260-e9d468ca6190" />
 
+---
 
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/0be7bc83-5746-4884-aba8-b9aa2ec9c3de" />
 
