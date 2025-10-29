@@ -2,7 +2,7 @@
 
 ---
 
-## 🏁 Sprint Details
+## Sprint Details
 
 **Event Name:** India Blockchain Tour 2025 (IBT 2025), also known as *India's Premier Web3 x AI Gala*  
 **Website:** [metamorphosisconf.com](https://metamorphosisconf.com)  
@@ -12,7 +12,7 @@
 
 ---
 
-## 💰 Available Options
+## Available Options
 
 | Option | Description |
 |:------:|:-------------|
@@ -21,7 +21,7 @@
 
 ---
 
-## 💸 Use of Funds
+## Use of Funds
 
 | Category | Description | Amount (USDT) |
 |:----------|:-------------|:--------------:|
@@ -33,14 +33,14 @@
 
 ---
 
-## 👥 Project Team
+## Project Team
 
 **Team Name:** SoundTick and Team (4)  
 **Handles:** X and Discord — [@SoundTick](https://x.com/SoundTick)  
 
 ---
 
-## 🎥 About the Team and SoundTick
+## About the Team and SoundTick
 
 Please watch the video here → [YouTube Link](https://youtu.be/r781XfvacdU)
 
@@ -55,7 +55,7 @@ It’s been almost **two years of journey** with the QUBIC project, and now I am
 
 ---
 
-## 🌏 About the Event and History
+## About the Event and History
 
 The **India Blockchain Tour** has been successfully running for the past two years — **2023** and **2024** — and now continues in **2025**.  
 In 2025, the organizers have conducted the same event in five major cities across India. **MEXC**, **Bybit**, and **15+ other projects** have continuously participated every year.
@@ -71,19 +71,19 @@ In 2025, the organizers have conducted the same event in five major cities acros
 
 ---
 
-## 💎 Why QUBIC Should Attend
+## Why QUBIC Should Attend
 
 As shown in the previous video, we have already worked to increase **QUBIC’s visibility** in India during Metamorphosis Delhi (27–28 September 2025, Le Meridien, Gurgaon).  
 
 This time, with **Title Sponsorship**, QUBIC will have an **official and prominent presence** at IBT 2025, once approved by the community.
 
-🎥 [Event Preview Video](https://youtu.be/r781XfvacdU)
+[Event Preview Video](https://youtu.be/r781XfvacdU)
 
 This video gives an idea of how the upcoming Chennai Node (29 November 2025) is going to happen and how **SoundTick and the Team** are going to participate.
 
 ---
 
-## 🌐 Strengthening QUBIC’s Footprint in the Indian Blockchain Space
+## Strengthening QUBIC’s Footprint in the Indian Blockchain Space
 
 In previous IBT events, over **5,000+ attendees** participated, with major sponsors like **MEXC**, **Bybit**, and nine other key players.  
 **QUBIC’s presence** will significantly strengthen its brand in one of the most **crypto-active regions** in India.
@@ -91,11 +91,11 @@ In previous IBT events, over **5,000+ attendees** participated, with major spons
 We’ll connect with investors, exchanges, developers, and community members.  
 All **leads (visitors, builders, investors)** will be handed over to the QUBIC community.
 
-🎥 We’ll also record the entire 8-hour event with 3 cameras, producing uncut RAW footage for transparency and monitoring.
+We’ll also record the entire 8-hour event with 3 cameras, producing uncut RAW footage for transparency and monitoring.
 
 ---
 
-## 🎁 What IBT 2025 Offers to Title Sponsors
+## What IBT 2025 Offers to Title Sponsors
 
 1. QUBIC branding and logo displayed throughout the event.  
 2. Booth facility with furniture.  
@@ -103,12 +103,12 @@ All **leads (visitors, builders, investors)** will be handed over to the QUBIC c
 
 ---
 
-## 👕 Role of SoundTick and Team (15 Members in QUBIC T-shirts)
+## Role of SoundTick and Team (15 Members in QUBIC T-shirts)
 
 SoundTick and the team will **actively represent QUBIC** at the India Blockchain Tour – Chennai Node, scheduled for 29 November 2025.  
 With a dedicated group of **15 members wearing QUBIC T-shirts**, the team will engage in multiple on-ground activities throughout the event.
 
-### 🧭 Our Participation Plan Includes:
+### Our Participation Plan Includes:
 
 - **Brand Promotion:** Setting up a QUBIC-branded booth and distributing flyers and pamphlets.  
 - **Networking:** Connecting with investors, builders, developers, and exchange representatives.  
@@ -120,7 +120,7 @@ This coordinated approach ensures that QUBIC gains **maximum visibility, credibi
 
 ---
 
-## 🧩 Conclusion
+## Conclusion
 
 We believe this initiative will not only strengthen QUBIC’s brand image but also open doors for **future collaborations, partnerships, and community growth** within one of the world’s most active crypto markets.
 
