@@ -42,7 +42,7 @@
 
 ## About the Team and SoundTick
 
-Please watch the video here → [YouTube Link](https://youtu.be/r781XfvacdU) https://youtu.be/r781XfvacdU
+Please watch the video here → YouTube https://youtu.be/r781XfvacdU
 
 Without any CCF funds, we (SoundTick and a 4-member team) have already conducted activities independently at **Metamorphosis Delhi**, held on *27–28 September 2025* at **Le Meridien, Gurgaon, India.**
 
@@ -77,7 +77,7 @@ As shown in the previous video, we have already worked to increase **QUBIC’s v
 
 This time, with **Title Sponsorship**, QUBIC will have an **official and prominent presence** at IBT 2025, once approved by the community.
 
-[Event Preview Video](https://youtu.be/r781XfvacdU)
+Event Preview Video https://youtu.be/r781XfvacdU
 
 This video gives an idea of how the upcoming Chennai Node (29 November 2025) is going to happen and how **SoundTick and the Team** are going to participate.
 
