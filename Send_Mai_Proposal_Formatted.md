@@ -131,12 +131,15 @@ This coordinated approach ensures that QUBIC gains **maximum visibility, credibi
 
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/0be7bc83-5746-4884-aba8-b9aa2ec9c3de" />
 
+---
 
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/95a4921c-f807-4a1e-bc84-f2e12b55ce19" />
 
+---
 
 <img width="1920" height="1080" alt="5)" src="https://github.com/user-attachments/assets/7025e88c-f594-482a-ba54-1030ec141250" />
 
+---
 
 ## Conclusion
 
