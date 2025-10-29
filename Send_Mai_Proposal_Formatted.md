@@ -2,7 +2,7 @@
 
 ---
 
-## Sprint Details
+## Implementation Phase Summary
 
 **Event Name:** India Blockchain Tour 2025 (IBT 2025), also known as *India's Premier Web3 x AI Gala*  
 **Website:** [metamorphosisconf.com](https://metamorphosisconf.com)  
