@@ -119,6 +119,8 @@ With a dedicated group of **15 members wearing QUBIC T-shirts**, the team will e
 This coordinated approach ensures that QUBIC gains **maximum visibility, credibility, and network growth** during one of India’s most influential Web3 and AI gatherings.
 
 ---
+<img width="1920" height="1080" alt="5)" src="https://github.com/user-attachments/assets/7025e88c-f594-482a-ba54-1030ec141250" />
+
 
 ## Conclusion
 
