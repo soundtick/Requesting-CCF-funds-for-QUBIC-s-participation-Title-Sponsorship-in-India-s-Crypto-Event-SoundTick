@@ -42,14 +42,14 @@
 
 ## About the Team and SoundTick
 
-Please watch the video here → [YouTube Link](https://youtu.be/r781XfvacdU)
+Please watch the video here → [YouTube Link](https://youtu.be/r781XfvacdU) https://youtu.be/r781XfvacdU
 
 Without any CCF funds, we (SoundTick and a 4-member team) have already conducted activities independently at **Metamorphosis Delhi**, held on *27–28 September 2025* at **Le Meridien, Gurgaon, India.**
 
 We are **not part of any official QUBIC roles** such as Ambassador or Community Lead. We simply trust the project, **CFB**, and are passionate about expanding its visibility in India.
 
 I have been following the project since **December 2023** and started tweeting about it in **February 2024:**  
-🔗 [Tweet Reference](https://x.com/SoundTick/status/1762812817231729037)
+ [Tweet Reference](https://x.com/SoundTick/status/1762812817231729037)
 
 It’s been almost **two years of journey** with the QUBIC project, and now I am taking the initiative to expand its presence across India.
 
@@ -119,6 +119,11 @@ With a dedicated group of **15 members wearing QUBIC T-shirts**, the team will e
 This coordinated approach ensures that QUBIC gains **maximum visibility, credibility, and network growth** during one of India’s most influential Web3 and AI gatherings.
 
 ---
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/286f1f84-31a0-49b0-a1bb-7abd5255799d" />
+<img width="1920" height="1080" alt="2 stage" src="https://github.com/user-attachments/assets/22a17fe4-b99e-4497-a260-e9d468ca6190" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/0be7bc83-5746-4884-aba8-b9aa2ec9c3de" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/95a4921c-f807-4a1e-bc84-f2e12b55ce19" />
+
 <img width="1920" height="1080" alt="5)" src="https://github.com/user-attachments/assets/7025e88c-f594-482a-ba54-1030ec141250" />
 
 
