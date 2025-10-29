@@ -44,7 +44,7 @@
 
 Please watch the video here → YouTube https://youtu.be/r781XfvacdU This video illustrates our workflow.
 
-Without any CCF funds, we (SoundTick and a 4-member team) have already conducted activities independently at **Metamorphosis Delhi**, held on *27–28 September 2025* at **Le Meridien, Gurgaon, India.**
+**Without any CCF funds,** we (SoundTick and a 4-member team) have already conducted activities independently at **Metamorphosis Delhi**, held on *27–28 September 2025* at **Le Meridien, Gurgaon, India.**
 
 This time, the same team SoundTick, expanded to 15 members, is going to participate in the upcoming India Blockchain Tour 2025 (IBT 2025) - also known as India’s Premier Web3 x AI Gala (Metamorphosis) - scheduled to take place in Chennai on 29 November 2025.
 
