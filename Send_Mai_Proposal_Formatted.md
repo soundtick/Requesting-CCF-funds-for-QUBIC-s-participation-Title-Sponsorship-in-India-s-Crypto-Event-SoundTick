@@ -1,4 +1,4 @@
-# 🪩 Title Sponsor for Crypto Event in India Requested by @SoundTick
+# Title Sponsor for Crypto Event in India Requested by @SoundTick
 
 ---
 
