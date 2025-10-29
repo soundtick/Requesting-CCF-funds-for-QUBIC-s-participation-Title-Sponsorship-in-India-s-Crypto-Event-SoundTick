@@ -4,10 +4,10 @@
 
 ## Implementation Phase Summary
 
-**Event Name:** India Blockchain Tour 2025 (IBT 2025), also known as *India's Premier Web3 x AI Gala*  
+**Event Name:** India Blockchain Tour 2025 (IBT 2025), also known as *India's Premier Web3 x AI Gala (Metamorphosis)*  
 **Website:** [metamorphosisconf.com](https://metamorphosisconf.com)  
 **Ticket Page:** [octaloop.com/indiablockchaintour/tickets](https://octaloop.com/indiablockchaintour/tickets)  
-**Event Date:** 29th November 2025 *(One Day)* — 10:30 AM to 6:00 PM (GMT+05:30)  
+**Event Date:** 29th November 2025 *(One Day)* - 10:30 AM to 6:00 PM (GMT+05:30)  
 **Funding Request:** 1.1 Billion QUBIC @ 1337 / Billion *(Equivalent to 1474 USDT)*  
 
 ---
@@ -35,21 +35,23 @@
 
 ## Project Team
 
-**Team Name:** SoundTick and Team (4)  
-**Handles:** X and Discord — [@SoundTick](https://x.com/SoundTick)  
+**Team Name:** SoundTick and Team (15)  
+**Handles:** X and Discord - [@SoundTick](https://x.com/SoundTick)  
 
 ---
 
 ## About the Team and SoundTick
 
-Please watch the video here → YouTube https://youtu.be/r781XfvacdU
+Please watch the video here → YouTube https://youtu.be/r781XfvacdU 
 
 Without any CCF funds, we (SoundTick and a 4-member team) have already conducted activities independently at **Metamorphosis Delhi**, held on *27–28 September 2025* at **Le Meridien, Gurgaon, India.**
+
+This time, the same team SoundTick, expanded to 15 members, is going to participate in the upcoming India Blockchain Tour 2025 (IBT 2025) - also known as India’s Premier Web3 x AI Gala (Metamorphosis) - scheduled to take place in Chennai on 29 November 2025.
 
 We are **not part of any official QUBIC roles** such as Ambassador or Community Lead. We simply trust the project, **CFB**, and are passionate about expanding its visibility in India.
 
 I have been following the project since **December 2023** and started tweeting about it in **February 2024:**  
- [Tweet Reference](https://x.com/SoundTick/status/1762812817231729037)
+ Tweet Reference (https://x.com/SoundTick/status/1762812817231729037)
 
 It’s been almost **two years of journey** with the QUBIC project, and now I am taking the initiative to expand its presence across India.
 
@@ -57,7 +59,7 @@ It’s been almost **two years of journey** with the QUBIC project, and now I am
 
 ## About the Event and History
 
-The **India Blockchain Tour** has been successfully running for the past two years — **2023** and **2024** — and now continues in **2025**.  
+The **India Blockchain Tour** has been successfully running for the past two years - **2023** and **2024** - and now continues in **2025**.  
 In 2025, the organizers have conducted the same event in five major cities across India. **MEXC**, **Bybit**, and **15+ other projects** have continuously participated every year.
 
 | Node | Date | Venue |
@@ -67,7 +69,7 @@ In 2025, the organizers have conducted the same event in five major cities acros
 | Kolkata Node | 16 August 2025 | The Cult by The Bikers Café, Kolkata |
 | Metamorphosis Delhi | 27–28 September 2025 | Le Meridien, Gurgaon |
 | Goa Node | 5 October 2025 | Sea Pebbles, Panaji, Goa |
-| **Chennai Node** | **Scheduled for 29 November 2025** | — |
+| **Chennai Node** | **Scheduled for 29 November 2025** | - |
 
 ---
 
@@ -120,9 +122,16 @@ This coordinated approach ensures that QUBIC gains **maximum visibility, credibi
 
 ---
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/286f1f84-31a0-49b0-a1bb-7abd5255799d" />
+
+
 <img width="1920" height="1080" alt="2 stage" src="https://github.com/user-attachments/assets/22a17fe4-b99e-4497-a260-e9d468ca6190" />
+
+
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/0be7bc83-5746-4884-aba8-b9aa2ec9c3de" />
+
+
 <img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/95a4921c-f807-4a1e-bc84-f2e12b55ce19" />
+
 
 <img width="1920" height="1080" alt="5)" src="https://github.com/user-attachments/assets/7025e88c-f594-482a-ba54-1030ec141250" />
 
@@ -131,4 +140,4 @@ This coordinated approach ensures that QUBIC gains **maximum visibility, credibi
 
 We believe this initiative will not only strengthen QUBIC’s brand image but also open doors for **future collaborations, partnerships, and community growth** within one of the world’s most active crypto markets.
 
-Your time and support mean a lot to us — **thank you for considering this opportunity.**
+Your time and support mean a lot to us - **thank you for considering this opportunity.**
