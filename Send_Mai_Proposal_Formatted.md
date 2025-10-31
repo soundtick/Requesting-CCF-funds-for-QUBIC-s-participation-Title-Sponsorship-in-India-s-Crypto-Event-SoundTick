@@ -11,7 +11,6 @@
 **Funding Request:** 1.2 Billion QUBIC @ 1222 / Billion *(Equivalent to 1474 USDT)*  
 ---
 
----
 ## Available Options
 
 | Option | Description |
@@ -20,7 +19,9 @@
 | 1 | Yes, approve the budget of 1.2 Billion QUBIC |
 
 ---
-
+Wallet for Funding:
+MPMCGKLUCFGZLEESCEXEBSAJTVKDVYXYDAHOEAEFVCCZTHDEKVJBNDREJAWI
+---
 ## Use of Funds
 
 | Category | Description | Amount (USDT) |
