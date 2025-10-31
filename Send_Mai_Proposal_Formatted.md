@@ -1,14 +1,14 @@
-#### Requesting CCF funds for QUBICs participation & Title Sponsorship in Indias Crypto Event by SoundTick
+### Requesting CCF funds for QUBICs participation & Title Sponsorship in Indias Crypto Event by SoundTick
 
 ---
 
-#### Implementation Phase Summary
+### Implementation Phase Summary
 
-**Event Name:** India Blockchain Tour 2025 (IBT 2025), also known as *India's Premier Web3 x AI Gala (Metamorphosis)*  
-**Website:** [metamorphosisconf.com](https://metamorphosisconf.com)  
-**Ticket Page:** [octaloop.com/indiablockchaintour/tickets](https://octaloop.com/indiablockchaintour/tickets)  
-**Event Date:** 29th November 2025 *(One Day)* - 10:30 AM to 6:00 PM (GMT+05:30)  
-**Funding Request:** 1.2 Billion QUBIC @ 1222 / Billion *(Equivalent to 1474 USDT)*  
+#**Event Name:** India Blockchain Tour 2025 (IBT 2025), also known as *India's Premier Web3 x AI Gala (Metamorphosis)*  
+#**Website:** [metamorphosisconf.com](https://metamorphosisconf.com)  
+#**Ticket Page:** [octaloop.com/indiablockchaintour/tickets](https://octaloop.com/indiablockchaintour/tickets)  
+#**Event Date:** 29th November 2025 *(One Day)* - 10:30 AM to 6:00 PM (GMT+05:30)  
+#**Funding Request:** 1.2 Billion QUBIC @ 1222 / Billion *(Equivalent to 1474 USDT)*  
 ---
 
 ## Available Options
@@ -19,8 +19,8 @@
 | 1 | Yes, approve the budget of 1.2 Billion QUBIC |
 
 ---
-Wallet for Funding:
-MPMCGKLUCFGZLEESCEXEBSAJTVKDVYXYDAHOEAEFVCCZTHDEKVJBNDREJAWI
+#Wallet for Funding:
+#MPMCGKLUCFGZLEESCEXEBSAJTVKDVYXYDAHOEAEFVCCZTHDEKVJBNDREJAWI
 ---
 ## Use of Funds
 
