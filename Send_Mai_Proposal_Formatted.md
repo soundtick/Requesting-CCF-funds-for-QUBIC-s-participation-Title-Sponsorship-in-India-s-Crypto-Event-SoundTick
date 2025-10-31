@@ -1,4 +1,4 @@
-## Requesting CCF funds for QUBICs participation & Title Sponsorship in Indias Crypto Event by SoundTick
+# Requesting CCF funds for QUBICs participation & Title Sponsorship in Indias Crypto Event by SoundTick
 
 ---
 
