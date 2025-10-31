@@ -6,7 +6,7 @@
 
 **Event Name:** India Blockchain Tour 2025 (IBT 2025), also known as India's Premier Web3 x AI Gala (Metamorphosis)
 
-**Website:** metamorphosisconf.com
+**Website:** metamorphosisconf.com 
 
 **Ticket Page:**  octaloop.com/indiablockchaintour/tickets
 
