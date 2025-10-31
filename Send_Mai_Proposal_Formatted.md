@@ -1,8 +1,8 @@
-## Requesting CCF funds for QUBICs participation & Title Sponsorship in Indias Crypto Event by SoundTick
+#### Requesting CCF funds for QUBICs participation & Title Sponsorship in Indias Crypto Event by SoundTick
 
 ---
 
-## Implementation Phase Summary
+#### Implementation Phase Summary
 
 **Event Name:** India Blockchain Tour 2025 (IBT 2025), also known as *India's Premier Web3 x AI Gala (Metamorphosis)*  
 **Website:** [metamorphosisconf.com](https://metamorphosisconf.com)  
