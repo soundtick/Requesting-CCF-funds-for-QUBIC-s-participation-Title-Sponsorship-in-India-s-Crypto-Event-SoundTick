@@ -8,7 +8,7 @@
 
 **Website:** metamorphosisconf.com
 
-**Ticket Page:** octaloop.com/indiablockchaintour/tickets
+**Ticket Page:**  octaloop.com/indiablockchaintour/tickets
 
 **Event Date:** 29th November 2025 (One Day) - 10:30 AM to 6:00 PM (GMT+05:30)
 
