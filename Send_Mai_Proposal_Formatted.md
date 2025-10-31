@@ -4,11 +4,12 @@
 
 # Implementation Phase Summary
 
-**Event Name:** India Blockchain Tour 2025 (IBT 2025), also known as *India's Premier Web3 x AI Gala (Metamorphosis)  
-**Website:** [metamorphosisconf.com](https://metamorphosisconf.com)  
-**Ticket Page:** [octaloop.com/indiablockchaintour/tickets](https://octaloop.com/indiablockchaintour/tickets)  
-**Event Date:** 29th November 2025 *(One Day)* - 10:30 AM to 6:00 PM (GMT+05:30)  
-**Funding Request:** 1.2 Billion QUBIC @ 1222 / Billion *(Equivalent to 1474 USDT)  
+Event Name: India Blockchain Tour 2025 (IBT 2025), also known as India's Premier Web3 x AI Gala (Metamorphosis)
+Website: metamorphosisconf.com
+Ticket Page: octaloop.com/indiablockchaintour/tickets
+Event Date: 29th November 2025 (One Day) - 10:30 AM to 6:00 PM (GMT+05:30)
+Funding Request: 1.1 Billion QUBIC @ 1337 / Billion (Equivalent to 1474 USDT)
+
 ---
 
 # Available Options
