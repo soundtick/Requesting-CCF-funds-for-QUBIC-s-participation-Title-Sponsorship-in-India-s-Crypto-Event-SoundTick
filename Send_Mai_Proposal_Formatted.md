@@ -2,7 +2,7 @@
 
 ---
 
-## Implementation Phase Summary
+# Implementation Phase Summary
 
 **Event Name:** India Blockchain Tour 2025 (IBT 2025), also known as *India's Premier Web3 x AI Gala (Metamorphosis)  
 **Website:** [metamorphosisconf.com](https://metamorphosisconf.com)  
@@ -11,7 +11,7 @@
 **Funding Request:** 1.2 Billion QUBIC @ 1222 / Billion *(Equivalent to 1474 USDT)  
 ---
 
-## Available Options
+# Available Options
 
 | Option | Description |
 |:------:|:-------------|
